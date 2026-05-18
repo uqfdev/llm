@@ -1,5 +1,4 @@
 ﻿llm
 
 
-![The screenshots of my notebook from vscode](./results_screenshots/img1.png<img width="611" height="398" alt="img1" src="https://github.com/user-attachments/assets/ba02f433-f8e3-4807-ad7d-56ffd292f274" />
-)
+![The screenshots of my notebook from vscode](./results_screenshots/img1.png)
